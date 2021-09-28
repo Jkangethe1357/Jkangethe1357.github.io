@@ -1,1 +1,13 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+<title>CSS Practice</title>
+<style>
+  Main ( )
+  
+  h2(
+    font-size: 16pt;
+    font-family: Arial;
+    color: blue;
+    font-style
