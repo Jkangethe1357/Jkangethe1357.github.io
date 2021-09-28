@@ -4,10 +4,19 @@
 <head>
 <title>CSS Practice</title>
 <style>
-  Main ( )
+ #Main ( 
+   Background: yellow;
+   Width: 608px;
+   Height: 280;
+   Float: left;
+   padding: 10px;
+  )
   
   h2(
     font-size: 16pt;
     font-family: Arial;
     color: blue;
-    font-style
+    font-style: italic;
+    
+    
+    
